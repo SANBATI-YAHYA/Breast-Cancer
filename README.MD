@@ -55,7 +55,7 @@ This project effectively combines machine learning techniques with robust data v
 
 ## Visuals of the Project
 
-![Breast Cancer Analysis Overview](images/https://github.com/SANBATI-YAHYA/Breast-Cancer/blob/cfac3592d53104f2e900f4c762bbb49bf0867670/BREASET_CANCER_1.png)  
+![Breast Cancer Analysis Overview](images/https://github.com/SANBATI-YAHYA/Breast-Cancer/blob/main/BREASET_CANCER_1.png?raw=true)  
 
 
 ---
