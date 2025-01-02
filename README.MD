@@ -54,12 +54,20 @@ This project effectively combines machine learning techniques with robust data v
 ---
 
 ## Visuals of the Project
+<div style="display: flex; justify-content: center; align-items: center; gap: 0px;">
 
-![Breast Cancer Analysis Overview](images/BREAST_CANCER_1.png)  
+  <div style="text-align: center; margin-right: 10px;">
+    <p><strong>🔬 Analyst Breast Cancer</strong></p>
+    <img src="https://raw.githubusercontent.com/SANBATI-YAHYA/Breast-Cancer/main/BREASET_CANCER_1.png" alt="Breast Cancer Analysis Overview" width="400">
+    <p>📊 Data insights and trends analysis</p>
+  </div>
+
+  <div style="text-align: center; margin-left: 10px;">
+    <p><strong>🤖 Model Classification of Cancer</strong></p>
+    <img src="https://raw.githubusercontent.com/SANBATI-YAHYA/Breast-Cancer/main/MODEL_SVM.png" alt="SVM Model Results" width="400">
+    <p>📈 SVM-based predictive modeling</p>
+  </div>
+
+</div>
 
 
----
-
-![SVM Model Results](images/SVM_MODEL.png)  
-
----
