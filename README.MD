@@ -1,6 +1,9 @@
+# Breast Cancer Analysis Project README
 
-# Directories
-## Project Structure
+## Directories
+
+### Project Structure
+```
 CANCER/
 ├── analyst breast cancer/
 │   ├── Data/
@@ -25,33 +28,36 @@ CANCER/
 │   ├── breast-cancer.csv
 │   └── MODEL_SVM.png
 └── README.md
+```
+
+---
 
 ## Online Access 🌐✨
 
 Access the interactive Power BI report showcasing insights and visualizations from this project using the link below:
 
-[🌐View the Project Breast Cancer  : ](https://app.powerbi.com/view?r=eyJrIjoiOGJmMTU5YjktNDM2OC00OGQyLWE3M2QtZWFkYTJmZDc1YTkxIiwidCI6IjFjOTU3MTRkLTczMWEtNDVmZS04YjY2LWMwNTI2MmY4OGZjZSJ9&pageName=00ee168f23893fd11308) 🌟
+[🌐 View the Project Breast Cancer](https://app.powerbi.com/view?r=eyJrIjoiOGJmMTU5YjktNDM2OC00OGQyLWE3M2QtZWFkYTJmZDc1YTkxIiwidCI6IjFjOTU3MTRkLTczMWEtNDVmZS04YjY2LWMwNTI2MmY4OGZjZSJ9&pageName=00ee168f23893fd11308) 🌟
 
 Explore dynamic charts, trends, and insights derived from the breast cancer analysis.
 
- **analyst breast cancer/Raport/**
+---
 
-   - Contains reports summarizing insights and findings from the breast cancer analysis.
-   - Includes Power BI visualizations, charts, and conclusions derived from the datasets.
+## Analyst Breast Cancer Directories
 
- **analyst breast cancer/Data/**
+### **analyst breast cancer/Raport/**
+- Contains reports summarizing insights and findings from the breast cancer analysis.
+- Includes Power BI visualizations, charts, and conclusions derived from the datasets.
 
-   - Stores all datasets used for analysis, such as incidence rates, demographic breakdowns, and mortality data.
-   - Ensures all raw and cleaned datasets are properly organized for reproducibility.
+### **analyst breast cancer/Data/**
+- Stores all datasets used for analysis, such as incidence rates, demographic breakdowns, and mortality data.
+- Ensures all raw and cleaned datasets are properly organized for reproducibility.
 
- **analyst breast cancer/background/**
+### **analyst breast cancer/background/**
+- Provides supporting information and context, including research references, methodology details, and supplementary materials.
 
-   - Provides supporting information and context, including research references, methodology details, and supplementary materials.
-
- **model classification svm Cancer/**
-
-   - Contains the Support Vector Machine (SVM) model files used for breast cancer classification.
-   - Includes model scripts, training data, and results.
+### **model classification svm Cancer/**
+- Contains the Support Vector Machine (SVM) model files used for breast cancer classification.
+- Includes model scripts, training data, and results.
 
 ---
 
@@ -72,10 +78,13 @@ This project aims to analyze breast cancer data to:
 - Power BI for visualization.
 - Python (with libraries such as scikit-learn, pandas, and matplotlib) for machine learning.
 
+---
 
 ## Conclusion
 
 This project effectively combines machine learning techniques with robust data visualization to address critical questions related to breast cancer. The SVM model is instrumental in predicting cancer likelihood based on cellular characteristics, while the Power BI analysis provides a demographic overview and highlights key patterns. Together, these methodologies offer a comprehensive framework for understanding and addressing breast cancer data.
+
+
 
 ---
 
