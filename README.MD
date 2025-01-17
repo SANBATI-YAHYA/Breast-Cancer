@@ -99,8 +99,8 @@ This project effectively combines machine learning techniques with robust data v
   <div align="center">
   <table>
     <tr>
-      <td><img src="s1.png" alt=" 1" width="400"></td>
-      <td><img src="s4.PNG" alt=" 2" width="400"></td>
+      <td><img src="s1.png" alt=" 1" width="300"></td>
+      <td><img src="s4.PNG" alt=" 2" width="300"></td>
     </tr>
   </table>
 
@@ -111,7 +111,7 @@ This project effectively combines machine learning techniques with robust data v
   <table>
     <tr>
       <td><img src="MODEL_SVM.png" alt=" 1" width="400"></td>
-      <td><img src="s2.PNG" alt=" 2" width="400"></td>
+      <td><img src="s2.PNG" alt=" 2" width="300"></td>
     </tr>
   </table>
     <p>📈 SVM-based predictive modeling</p>
