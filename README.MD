@@ -1,5 +1,7 @@
 # Breast Cancer Analysis Project 
 
+![Breast Cancer](s3.png)
+
 ## Directories
 
 ### Project Structure
