@@ -51,7 +51,7 @@ Explore dynamic charts, trends, and insights derived from the breast cancer anal
 - Includes Power BI visualizations, charts, and conclusions derived from the datasets.
 
 ### **analyst breast cancer/Data/**
-- Stores all datasets used for analysis, such as incidence rates, demographic breakdowns, and mortality data.
+- Stores all datasets used for analysis, such as incidence rates, demographic breakdowns, and mortality data .
 - Ensures all raw and cleaned datasets are properly organized for reproducibility.
 
 ### **analyst breast cancer/background/**
@@ -71,7 +71,7 @@ This project aims to analyze breast cancer data to:
 - Develop predictive models using SVM classification.
 - Present data insights using interactive Power BI visualizations.
 
----
+----
 
 ## Getting Started
 
@@ -109,7 +109,7 @@ This project effectively combines machine learning techniques with robust data v
 
   <div align="center">
   <table>
-    <tr>
+    <tr>de 
       <td><img src="MODEL_SVM.png" alt=" 1" width="400"></td>
       <td><img src="s2.png" alt=" 2" width="400"></td>
     </tr>
